@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175c0b4b-77ba-4074-bc62-b9627d043ea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app1/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_Berlizova/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_Berlizova/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_Berlizova/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_Berlizova/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_Berlizova/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_Berlizova/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +105,7 @@
       <workItem from="1713263476137" duration="686000" />
       <workItem from="1713266139877" duration="150000" />
       <workItem from="1713266321110" duration="66000" />
-      <workItem from="1713266420242" duration="3615000" />
+      <workItem from="1713266420242" duration="4724000" />
     </task>
     <servers />
   </component>
