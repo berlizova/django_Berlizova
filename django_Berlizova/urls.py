@@ -18,9 +18,13 @@ from django.contrib import admin
 from django.urls import path
 from app1 import views as views_1
 from app2 import views as views_2
+from articles import views as articles
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+
+    path('articles/2023/', articles.article_2023, name='article_2023'),
+
     path('app1/', views_1.app1, name='app1'),
     path('app2/', views_2.app2, name='app2'),
     path('',views_1.index, name='index'),
