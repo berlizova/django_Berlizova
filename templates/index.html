@@ -6,9 +6,9 @@
 </head>
 <body>
     <ul>
-        <li><a href="{% url 'index' %}">Home</a></li>
-        <li><a href="{% url 'app1' %}">App 1</a></li>
-        <li><a href="{% url 'app2' %}">App 2</a></li>
+        <li><a href="{% url 'app1:index' %}">App 1</a></li>
+        <li><a href="{% url 'app2:index' %}">App 2</a></li>
+        <li><a href="{% url 'articles_by_year' year=2023 %}">Articles</a></li>
     <ul>    
         
 </body>
